@@ -7,7 +7,7 @@
 ## about Won🌱
 - phone | 010-3210-1679
 - email | andrew112517@naver.com / seungwon112517@gmail.ccom
-- notion | [Won.notion](https://hail-anger-c0a.notion.site/WON-41d542dd75aa4b25aaa6090476678571?pvs=4)
+- portfolio | [Won's Portfolio](https://hail-anger-c0a.notion.site/WON-41d542dd75aa4b25aaa6090476678571?pvs=4)
 
 ## Tech Stacks🛠️
 <p align="leading">
